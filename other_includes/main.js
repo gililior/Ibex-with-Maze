@@ -196,11 +196,16 @@ $.widget("ui.__SendResults__", {
         } // Note that this will be cleaned up automatically.
         t.options._utils.setTimeout(timerCallback, 200);
 
+        const prime = 7507;
+        const multiplier = Math.floor((Math.random()+1)*20-6);
+        const str_num = (prime*multiplier).toString();
+        const result = Math.random().toString(36).substring(2,7) + str_num;
+
         sendResults(allResults,
 		    function() {
                         RESULTS_HAVE_ALREADY_BEEN_SENT = true;
                         spinSpanShouldBeSpinning = false;
-			t.element.empty().append($("<div>").addClass("sending-results").text(conf_completionMessage));
+			t.element.empty().append($("<div>").addClass("sending-results").text(conf_completionMessage+" Your mturk code is "+result));
 			t.options._finishedCallback();
 		    },
 		    function() {
