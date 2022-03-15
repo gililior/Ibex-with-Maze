@@ -1,5 +1,5 @@
 //for G-maze
-var shuffleSequence = seq("intro-gram", "intro-practice", followEachWith("sep", "practice"), "end-practice", followEachWith("sep",randomize(anyOf(startsWith("anti-"),startsWith("pro-"),startsWith("neutral-"),startsWith("pronoun-")))),  "instructions2");
+var shuffleSequence = seq("intro-gram", "intro-practice", followEachWith("sep", "practice"), "end-practice", followEachWith("sep",shuffle(randomize(anyOf(startsWith("anti-"),startsWith("pro-"),startsWith("neutral-"),startsWith("pronoun-"))))),  "instructions2");
 
 var showProgressBar =true;
 
