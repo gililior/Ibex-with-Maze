@@ -1,0 +1,582 @@
+#
+# Results on Tuesday March 15 2022 11:33:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,0,The,x-x-x,0,yes,1870,The farmer gave the teacher a bag of eggs and thanked him for teaching.,1870
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,1,farmer,relied,0,yes,685,The farmer gave the teacher a bag of eggs and thanked him for teaching.,685
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,2,gave,pace,0,yes,609,The farmer gave the teacher a bag of eggs and thanked him for teaching.,609
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,3,the,yeah,0,yes,592,The farmer gave the teacher a bag of eggs and thanked him for teaching.,592
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,4,teacher,appears,0,yes,594,The farmer gave the teacher a bag of eggs and thanked him for teaching.,594
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,5,a,vs,0,yes,599,The farmer gave the teacher a bag of eggs and thanked him for teaching.,599
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,6,bag,died,0,yes,1057,The farmer gave the teacher a bag of eggs and thanked him for teaching.,1057
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,7,of,hear,1,yes,526,The farmer gave the teacher a bag of eggs and thanked him for teaching.,526
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,8,eggs,ally,1,yes,698,The farmer gave the teacher a bag of eggs and thanked him for teaching.,698
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,9,and,sir,1,yes,637,The farmer gave the teacher a bag of eggs and thanked him for teaching.,637
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,10,thanked,deficit,1,yes,603,The farmer gave the teacher a bag of eggs and thanked him for teaching.,603
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,11,him,pro,0,yes,601,The farmer gave the teacher a bag of eggs and thanked him for teaching.,601
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,12,for,sale,1,yes,486,The farmer gave the teacher a bag of eggs and thanked him for teaching.,486
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1340,0,practice,p,13,teaching.,consists.,0,yes,689,The farmer gave the teacher a bag of eggs and thanked him for teaching.,689
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,0,The,x-x-x,0,yes,542,The secretary took down the farmer 's petition which was the hope to improve her life.,542
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,1,secretary,expecting,0,yes,767,The secretary took down the farmer 's petition which was the hope to improve her life.,767
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,2,took,hate,0,yes,1145,The secretary took down the farmer 's petition which was the hope to improve her life.,1145
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,3,down,yeah,0,yes,802,The secretary took down the farmer 's petition which was the hope to improve her life.,802
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,4,the,yes,0,no,488,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,5,farmer,exceed,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,6,'s,'miss,0,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,7,petition,upgraded,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,8,which,super,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,9,was,okay,0,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,10,the,kids,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,11,hope,whom,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,12,to,star,0,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,13,improve,tonight,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,14,her,guys,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,862,0,anti-pro,5,15,life.,glad.,1,no,None,The secretary took down the farmer 's petition which was the hope to improve her life.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,0,The,x-x-x,0,yes,532,The CEO stared at the librarian and asked him for a dinner.,532
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,1,CEO,RELY,1,yes,830,The CEO stared at the librarian and asked him for a dinner.,830
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,2,stared,unreal,0,yes,880,The CEO stared at the librarian and asked him for a dinner.,880
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,3,at,jack,1,yes,483,The CEO stared at the librarian and asked him for a dinner.,483
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,4,the,kid,1,yes,493,The CEO stared at the librarian and asked him for a dinner.,493
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,5,librarian,bombarded,0,yes,611,The CEO stared at the librarian and asked him for a dinner.,611
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,6,and,yes,0,yes,639,The CEO stared at the librarian and asked him for a dinner.,639
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,7,asked,miles,1,yes,766,The CEO stared at the librarian and asked him for a dinner.,766
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,8,him,hour,0,yes,626,The CEO stared at the librarian and asked him for a dinner.,626
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,9,for,size,1,yes,712,The CEO stared at the librarian and asked him for a dinner.,712
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,10,a,yeah,1,yes,648,The CEO stared at the librarian and asked him for a dinner.,648
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,350,0,anti-pro,2,11,dinner.,inches.,0,yes,976,The CEO stared at the librarian and asked him for a dinner.,976
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,0,The,x-x-x,0,yes,492,The secretary took down the farmer 's petition and then she submitted it to her superiors.,492
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,1,secretary,recommend,1,yes,1023,The secretary took down the farmer 's petition and then she submitted it to her superiors.,1023
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,2,took,hate,1,yes,1057,The secretary took down the farmer 's petition and then she submitted it to her superiors.,1057
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,3,down,yeah,1,yes,512,The secretary took down the farmer 's petition and then she submitted it to her superiors.,512
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,4,the,okay,1,yes,648,The secretary took down the farmer 's petition and then she submitted it to her superiors.,648
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,5,farmer,exists,0,yes,790,The secretary took down the farmer 's petition and then she submitted it to her superiors.,790
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,6,'s,'al,1,yes,922,The secretary took down the farmer 's petition and then she submitted it to her superiors.,922
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,7,petition,dominate,0,yes,1424,The secretary took down the farmer 's petition and then she submitted it to her superiors.,1424
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,8,and,pop,1,yes,945,The secretary took down the farmer 's petition and then she submitted it to her superiors.,945
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,9,then,guys,0,yes,823,The secretary took down the farmer 's petition and then she submitted it to her superiors.,823
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,10,she,dad,0,yes,560,The secretary took down the farmer 's petition and then she submitted it to her superiors.,560
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,11,submitted,diversity,1,yes,1704,The secretary took down the farmer 's petition and then she submitted it to her superiors.,1704
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,12,it,sun,1,yes,657,The secretary took down the farmer 's petition and then she submitted it to her superiors.,657
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,13,to,rock,1,yes,654,The secretary took down the farmer 's petition and then she submitted it to her superiors.,654
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,14,her,gone,1,yes,538,The secretary took down the farmer 's petition and then she submitted it to her superiors.,538
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,26,0,pro-anti,8,15,superiors.,deploying.,1,yes,1542,The secretary took down the farmer 's petition and then she submitted it to her superiors.,1542
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,0,The,x-x-x,0,yes,532,The developer needed the clerk 's help with paperwork and asked him.,532
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,1,developer,preparing,0,yes,961,The developer needed the clerk 's help with paperwork and asked him.,961
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,2,needed,stupid,0,yes,808,The developer needed the clerk 's help with paperwork and asked him.,808
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,3,the,yeah,1,yes,919,The developer needed the clerk 's help with paperwork and asked him.,919
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,4,clerk,hates,0,yes,657,The developer needed the clerk 's help with paperwork and asked him.,657
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,5,'s,'pre,1,yes,718,The developer needed the clerk 's help with paperwork and asked him.,718
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,6,help,fell,0,yes,705,The developer needed the clerk 's help with paperwork and asked him.,705
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,7,with,cent,1,yes,770,The developer needed the clerk 's help with paperwork and asked him.,770
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,8,paperwork,anthology,0,yes,1168,The developer needed the clerk 's help with paperwork and asked him.,1168
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,9,and,lady,1,yes,687,The developer needed the clerk 's help with paperwork and asked him.,687
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,10,asked,sorry,1,yes,655,The developer needed the clerk 's help with paperwork and asked him.,655
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,182,0,anti-pro,1,11,him.,hour.,0,yes,673,The developer needed the clerk 's help with paperwork and asked him.,673
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,0,The,x-x-x,0,yes,489,The pathologist obtained tissue samples from someone to look at under her microscope.,489
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,1,pathologist,selectively,1,yes,1217,The pathologist obtained tissue samples from someone to look at under her microscope.,1217
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,2,obtained,treasure,0,yes,2080,The pathologist obtained tissue samples from someone to look at under her microscope.,2080
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,3,tissue,eagles,1,yes,823,The pathologist obtained tissue samples from someone to look at under her microscope.,823
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,4,samples,stadium,1,yes,1215,The pathologist obtained tissue samples from someone to look at under her microscope.,1215
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,5,from,foot,1,yes,543,The pathologist obtained tissue samples from someone to look at under her microscope.,543
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,6,someone,economy,1,yes,808,The pathologist obtained tissue samples from someone to look at under her microscope.,808
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,7,to,ball,1,yes,530,The pathologist obtained tissue samples from someone to look at under her microscope.,530
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,8,look,yeah,0,yes,726,The pathologist obtained tissue samples from someone to look at under her microscope.,726
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,9,at,ride,1,yes,576,The pathologist obtained tissue samples from someone to look at under her microscope.,576
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,10,under,march,1,yes,578,The pathologist obtained tissue samples from someone to look at under her microscope.,578
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,11,her,vote,0,yes,585,The pathologist obtained tissue samples from someone to look at under her microscope.,585
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,422,0,pro-neutral,16,12,microscope.,southbound.,1,yes,575,The pathologist obtained tissue samples from someone to look at under her microscope.,575
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,0,The,x-x-x,0,yes,545,The guard tried to be friends with the accountant and bought him a calculator.,545
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,1,guard,yours,0,yes,776,The guard tried to be friends with the accountant and bought him a calculator.,776
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,2,tried,trans,1,yes,1279,The guard tried to be friends with the accountant and bought him a calculator.,1279
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,3,to,lake,0,yes,566,The guard tried to be friends with the accountant and bought him a calculator.,566
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,4,be,pre,0,yes,626,The guard tried to be friends with the accountant and bought him a calculator.,626
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,5,friends,dollars,0,yes,1110,The guard tried to be friends with the accountant and bought him a calculator.,1110
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,6,with,sale,0,yes,586,The guard tried to be friends with the accountant and bought him a calculator.,586
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,7,the,app,1,yes,601,The guard tried to be friends with the accountant and bought him a calculator.,601
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,8,accountant,capacities,1,yes,1056,The guard tried to be friends with the accountant and bought him a calculator.,1056
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,9,and,add,0,no,711,The guard tried to be friends with the accountant and bought him a calculator.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,10,bought,jersey,1,no,None,The guard tried to be friends with the accountant and bought him a calculator.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,11,him,eat,1,no,None,The guard tried to be friends with the accountant and bought him a calculator.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,12,a,mean,1,no,None,The guard tried to be friends with the accountant and bought him a calculator.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,526,0,anti-pro,3,13,calculator.,recognizes.,0,no,None,The guard tried to be friends with the accountant and bought him a calculator.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,0,The,x-x-x,0,yes,466,The baker sold bread to the CEO and enjoyed her visits.,466
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,1,baker,flown,0,yes,686,The baker sold bread to the CEO and enjoyed her visits.,686
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,2,sold,gray,1,yes,850,The baker sold bread to the CEO and enjoyed her visits.,850
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,3,bread,twist,1,yes,2016,The baker sold bread to the CEO and enjoyed her visits.,2016
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,4,to,fear,0,yes,521,The baker sold bread to the CEO and enjoyed her visits.,521
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,5,the,pro,0,yes,471,The baker sold bread to the CEO and enjoyed her visits.,471
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,6,CEO,TIL,1,yes,792,The baker sold bread to the CEO and enjoyed her visits.,792
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,7,and,miss,1,yes,744,The baker sold bread to the CEO and enjoyed her visits.,744
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,8,enjoyed,offense,0,yes,943,The baker sold bread to the CEO and enjoyed her visits.,943
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,9,her,yeah,1,yes,672,The baker sold bread to the CEO and enjoyed her visits.,672
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,697,0,anti-pro,4,10,visits.,aliens.,0,yes,879,The baker sold bread to the CEO and enjoyed her visits.,879
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,0,The,x-x-x,0,yes,457,The auditor was not lenient with the CEO and admonished her harshly.,457
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,1,auditor,renters,1,no,1544,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,2,was,luck,0,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,3,not,ride,0,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,4,lenient,hatches,1,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,5,with,trip,1,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,6,the,ago,1,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,7,CEO,SANG,0,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,8,and,walk,1,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,9,admonished,amphibians,0,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,10,her,jack,1,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1015,0,anti-pro,6,11,harshly.,rapture.,1,no,None,The auditor was not lenient with the CEO and admonished her harshly.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,0,The,x-x-x,0,yes,531,The carpenter wanted to thank the baker and made a chair for her.,531
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,1,carpenter,shortages,1,yes,1504,The carpenter wanted to thank the baker and made a chair for her.,1504
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,2,wanted,minute,0,yes,712,The carpenter wanted to thank the baker and made a chair for her.,712
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,3,to,vs,1,yes,585,The carpenter wanted to thank the baker and made a chair for her.,585
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,4,thank,types,1,yes,655,The carpenter wanted to thank the baker and made a chair for her.,655
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,5,the,walk,0,yes,431,The carpenter wanted to thank the baker and made a chair for her.,431
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,6,baker,faced,0,yes,769,The carpenter wanted to thank the baker and made a chair for her.,769
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,7,and,rise,1,yes,576,The carpenter wanted to thank the baker and made a chair for her.,576
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,8,made,anti,1,yes,1032,The carpenter wanted to thank the baker and made a chair for her.,1032
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,9,a,app,1,yes,776,The carpenter wanted to thank the baker and made a chair for her.,776
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,10,chair,likes,0,yes,712,The carpenter wanted to thank the baker and made a chair for her.,712
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,11,for,jack,1,yes,440,The carpenter wanted to thank the baker and made a chair for her.,440
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,181,0,pro-anti,9,12,her.,ago.,0,yes,679,The carpenter wanted to thank the baker and made a chair for her.,679
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,0,When,x-x-x,0,yes,464,When the mover arrived%2C the attendant was surprised by his enormous truck.,464
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,1,the,eat,1,yes,782,When the mover arrived%2C the attendant was surprised by his enormous truck.,782
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,2,mover,aloud,1,yes,1137,When the mover arrived%2C the attendant was surprised by his enormous truck.,1137
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,3,arrived%2C,careful%2C,1,yes,990,When the mover arrived%2C the attendant was surprised by his enormous truck.,990
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,4,the,die,1,yes,618,When the mover arrived%2C the attendant was surprised by his enormous truck.,618
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,5,attendant,considers,0,yes,720,When the mover arrived%2C the attendant was surprised by his enormous truck.,720
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,6,was,pre,1,yes,610,When the mover arrived%2C the attendant was surprised by his enormous truck.,610
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,7,surprised,franchise,1,yes,830,When the mover arrived%2C the attendant was surprised by his enormous truck.,830
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,8,by,goal,0,yes,1009,When the mover arrived%2C the attendant was surprised by his enormous truck.,1009
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,9,his,add,1,yes,863,When the mover arrived%2C the attendant was surprised by his enormous truck.,863
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,10,enormous,billions,0,yes,1015,When the mover arrived%2C the attendant was surprised by his enormous truck.,1015
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,859,0,pro-anti,13,11,truck.,argue.,0,yes,1680,When the mover arrived%2C the attendant was surprised by his enormous truck.,1680
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,0,The,x-x-x,0,yes,473,The instructor encouraged someone to pursue his dreams.,473
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,1,instructor,accomplish,1,yes,792,The instructor encouraged someone to pursue his dreams.,792
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,2,encouraged,capitalism,1,yes,1415,The instructor encouraged someone to pursue his dreams.,1415
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,3,someone,anymore,1,yes,785,The instructor encouraged someone to pursue his dreams.,785
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,4,to,laws,1,yes,432,The instructor encouraged someone to pursue his dreams.,432
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,5,pursue,fiscal,0,yes,502,The instructor encouraged someone to pursue his dreams.,502
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,6,his,guy,0,yes,683,The instructor encouraged someone to pursue his dreams.,683
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,40,0,neutral-anti,20,7,dreams.,giants.,1,yes,694,The instructor encouraged someone to pursue his dreams.,694
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,0,The,x-x-x,0,yes,478,The tailor thought the janitor could be good a sewing and encouraged her.,478
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,1,tailor,arisen,0,yes,889,The tailor thought the janitor could be good a sewing and encouraged her.,889
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,2,thought,seconds,1,yes,1190,The tailor thought the janitor could be good a sewing and encouraged her.,1190
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,3,the,mind,1,yes,561,The tailor thought the janitor could be good a sewing and encouraged her.,561
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,4,janitor,tallied,1,yes,822,The tailor thought the janitor could be good a sewing and encouraged her.,822
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,5,could,coast,1,yes,754,The tailor thought the janitor could be good a sewing and encouraged her.,754
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,6,be,cent,1,yes,615,The tailor thought the janitor could be good a sewing and encouraged her.,615
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,7,good,fund,1,yes,593,The tailor thought the janitor could be good a sewing and encouraged her.,593
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,8,a,pre,1,yes,551,The tailor thought the janitor could be good a sewing and encouraged her.,551
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,9,sewing,lastly,0,yes,1952,The tailor thought the janitor could be good a sewing and encouraged her.,1952
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,10,and,say,0,yes,816,The tailor thought the janitor could be good a sewing and encouraged her.,816
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,11,encouraged,assumption,1,yes,1082,The tailor thought the janitor could be good a sewing and encouraged her.,1082
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,7,0,anti-pro,0,12,her.,yeah.,0,yes,687,The tailor thought the janitor could be good a sewing and encouraged her.,687
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,0,Someone,x-x-x,0,yes,444,Someone called the plumber to get an estimate for her services.,444
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,1,called,target,1,yes,1274,Someone called the plumber to get an estimate for her services.,1274
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,2,the,date,1,yes,464,Someone called the plumber to get an estimate for her services.,464
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,3,plumber,divides,0,yes,663,Someone called the plumber to get an estimate for her services.,663
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,4,to,gold,1,yes,431,Someone called the plumber to get an estimate for her services.,431
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,5,get,app,0,yes,665,Someone called the plumber to get an estimate for her services.,665
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,6,an,lake,1,yes,784,Someone called the plumber to get an estimate for her services.,784
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,7,estimate,remained,0,yes,984,Someone called the plumber to get an estimate for her services.,984
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,8,for,lady,1,no,912,Someone called the plumber to get an estimate for her services.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,9,her,dad,1,no,None,Someone called the plumber to get an estimate for her services.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,829,0,anti-neutral,17,10,services.,congress.,0,no,None,Someone called the plumber to get an estimate for her services.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,0,The,x-x-x,0,yes,501,The carpenter shouted at the secretary and drove her away.,501
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,1,carpenter,undergone,0,yes,751,The carpenter shouted at the secretary and drove her away.,751
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,2,shouted,typhoon,1,no,985,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,3,at,pre,0,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,4,the,grow,0,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,5,secretary,ourselves,1,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,6,and,cool,0,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,7,drove,metro,1,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,8,her,cent,1,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1047,0,pro-anti,14,9,away.,fund.,1,no,None,The carpenter shouted at the secretary and drove her away.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,0,The,x-x-x,0,yes,469,The CEO got goods from the cashier and then paid her.,469
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,1,CEO,SPAM,0,yes,4786,The CEO got goods from the cashier and then paid her.,4786
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,2,got,fun,0,yes,703,The CEO got goods from the cashier and then paid her.,703
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,3,goods,ought,1,yes,1159,The CEO got goods from the cashier and then paid her.,1159
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,4,from,cent,0,yes,433,The CEO got goods from the cashier and then paid her.,433
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,5,the,anti,0,yes,664,The CEO got goods from the cashier and then paid her.,664
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,6,cashier,governs,1,yes,974,The CEO got goods from the cashier and then paid her.,974
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,7,and,sad,0,yes,529,The CEO got goods from the cashier and then paid her.,529
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,8,then,hate,1,no,873,The CEO got goods from the cashier and then paid her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,9,paid,diet,1,no,None,The CEO got goods from the cashier and then paid her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,524,0,pro-anti,11,10,her.,yeah.,0,no,None,The CEO got goods from the cashier and then paid her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,0,The,x-x-x,0,yes,710,The janitor showed the housekeeper the direction and led her to the kitchen.,710
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,1,janitor,renters,0,yes,4282,The janitor showed the housekeeper the direction and led her to the kitchen.,4282
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,2,showed,crimes,1,yes,1040,The janitor showed the housekeeper the direction and led her to the kitchen.,1040
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,3,the,cent,1,yes,424,The janitor showed the housekeeper the direction and led her to the kitchen.,424
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,4,housekeeper,restricting,0,yes,625,The janitor showed the housekeeper the direction and led her to the kitchen.,625
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,5,the,laws,1,yes,639,The janitor showed the housekeeper the direction and led her to the kitchen.,639
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,6,direction,ourselves,1,yes,800,The janitor showed the housekeeper the direction and led her to the kitchen.,800
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,7,and,own,1,yes,648,The janitor showed the housekeeper the direction and led her to the kitchen.,648
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,8,led,nor,0,yes,590,The janitor showed the housekeeper the direction and led her to the kitchen.,590
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,9,her,app,1,yes,497,The janitor showed the housekeeper the direction and led her to the kitchen.,497
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,10,to,pre,1,yes,552,The janitor showed the housekeeper the direction and led her to the kitchen.,552
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,11,the,anti,1,yes,569,The janitor showed the housekeeper the direction and led her to the kitchen.,569
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,353,0,pro-anti,10,12,kitchen.,applies.,0,yes,672,The janitor showed the housekeeper the direction and led her to the kitchen.,672
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,0,The,x-x-x,0,yes,587,The mechanic gave the clerk a present and wished her happy birthday.,587
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,1,mechanic,marketed,1,yes,1616,The mechanic gave the clerk a present and wished her happy birthday.,1616
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,2,gave,holy,0,yes,659,The mechanic gave the clerk a present and wished her happy birthday.,659
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,3,the,jack,0,yes,464,The mechanic gave the clerk a present and wished her happy birthday.,464
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,4,clerk,facto,0,yes,744,The mechanic gave the clerk a present and wished her happy birthday.,744
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,5,a,yeah,1,yes,462,The mechanic gave the clerk a present and wished her happy birthday.,462
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,6,present,appears,1,yes,800,The mechanic gave the clerk a present and wished her happy birthday.,800
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,7,and,guys,1,yes,519,The mechanic gave the clerk a present and wished her happy birthday.,519
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,8,wished,yogurt,0,yes,610,The mechanic gave the clerk a present and wished her happy birthday.,610
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,9,her,app,0,yes,561,The mechanic gave the clerk a present and wished her happy birthday.,561
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,10,happy,miles,1,yes,735,The mechanic gave the clerk a present and wished her happy birthday.,735
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1221,0,pro-anti,15,11,birthday.,diseases.,0,yes,704,The mechanic gave the clerk a present and wished her happy birthday.,704
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,0,The,x-x-x,0,yes,437,The electrician warned someone not to try rewiring anything on their own.,437
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,1,electrician,warehousing,0,yes,608,The electrician warned someone not to try rewiring anything on their own.,608
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,2,warned,garlic,0,yes,863,The electrician warned someone not to try rewiring anything on their own.,863
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,3,someone,happens,1,yes,729,The electrician warned someone not to try rewiring anything on their own.,729
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,4,not,fund,1,yes,1000,The electrician warned someone not to try rewiring anything on their own.,1000
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,5,to,ball,0,yes,561,The electrician warned someone not to try rewiring anything on their own.,561
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,6,try,pre,0,yes,751,The electrician warned someone not to try rewiring anything on their own.,751
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,7,rewiring,landward,1,yes,1343,The electrician warned someone not to try rewiring anything on their own.,1343
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,8,anything,republic,0,yes,1033,The electrician warned someone not to try rewiring anything on their own.,1033
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,9,on,join,0,yes,793,The electrician warned someone not to try rewiring anything on their own.,793
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,10,their,agree,1,yes,1616,The electrician warned someone not to try rewiring anything on their own.,1616
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,766,0,pronoun-neutral,18,11,own.,none.,0,yes,735,The electrician warned someone not to try rewiring anything on their own.,735
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,0,The,x-x-x,0,yes,476,The electrician warned someone not to try rewiring anything on his own.,476
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,1,electrician,fertilizers,1,yes,1280,The electrician warned someone not to try rewiring anything on his own.,1280
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,2,warned,plague,1,yes,904,The electrician warned someone not to try rewiring anything on his own.,904
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,3,someone,edition,1,yes,696,The electrician warned someone not to try rewiring anything on his own.,696
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,4,not,laws,0,yes,647,The electrician warned someone not to try rewiring anything on his own.,647
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,5,to,cat,0,yes,625,The electrician warned someone not to try rewiring anything on his own.,625
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,6,try,pre,0,yes,728,The electrician warned someone not to try rewiring anything on his own.,728
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,7,rewiring,riverbed,1,yes,1094,The electrician warned someone not to try rewiring anything on his own.,1094
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,8,anything,republic,0,yes,920,The electrician warned someone not to try rewiring anything on his own.,920
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,9,on,fund,0,yes,672,The electrician warned someone not to try rewiring anything on his own.,672
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,10,his,lady,1,yes,882,The electrician warned someone not to try rewiring anything on his own.,882
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1338,0,neutral-pro,19,11,own.,none.,0,yes,726,The electrician warned someone not to try rewiring anything on his own.,726
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,0,The,x-x-x,0,yes,604,The attendant hit the supervisor by mistake and apologized to her.,604
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,1,attendant,adulthood,1,yes,999,The attendant hit the supervisor by mistake and apologized to her.,999
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,2,hit,cent,1,yes,1592,The attendant hit the supervisor by mistake and apologized to her.,1592
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,3,the,lie,0,yes,602,The attendant hit the supervisor by mistake and apologized to her.,602
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,4,supervisor,advocating,1,yes,921,The attendant hit the supervisor by mistake and apologized to her.,921
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,5,by,pre,0,yes,558,The attendant hit the supervisor by mistake and apologized to her.,558
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,6,mistake,existed,1,no,1481,The attendant hit the supervisor by mistake and apologized to her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,7,and,sea,1,no,None,The attendant hit the supervisor by mistake and apologized to her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,8,apologized,interfaces,0,no,None,The attendant hit the supervisor by mistake and apologized to her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,9,to,sun,0,no,None,The attendant hit the supervisor by mistake and apologized to her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,1171,0,anti-pro,7,10,her.,hour.,1,no,None,The attendant hit the supervisor by mistake and apologized to her.,None
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,0,The,x-x-x,0,yes,518,The CEO was ignored by the designer and so rejected her proposal.,518
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,1,CEO,SUE,0,yes,645,The CEO was ignored by the designer and so rejected her proposal.,645
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,2,was,nice,1,yes,707,The CEO was ignored by the designer and so rejected her proposal.,707
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,3,ignored,raiders,0,yes,695,The CEO was ignored by the designer and so rejected her proposal.,695
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,4,by,jack,1,yes,1007,The CEO was ignored by the designer and so rejected her proposal.,1007
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,5,the,gone,0,yes,856,The CEO was ignored by the designer and so rejected her proposal.,856
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,6,designer,diabetes,0,yes,919,The CEO was ignored by the designer and so rejected her proposal.,919
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,7,and,hear,0,yes,474,The CEO was ignored by the designer and so rejected her proposal.,474
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,8,so,yeah,1,yes,567,The CEO was ignored by the designer and so rejected her proposal.,567
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,9,rejected,counties,0,yes,760,The CEO was ignored by the designer and so rejected her proposal.,760
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,10,her,god,1,yes,929,The CEO was ignored by the designer and so rejected her proposal.,929
+1647344012,b1758e3193dd2c0344159736bdeb9877,Maze,691,0,pro-anti,12,11,proposal.,measured.,1,yes,1504,The CEO was ignored by the designer and so rejected her proposal.,1504
+#
+# Results on Thursday March 17 2022 07:04:34 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:97.0) Gecko/20100101 Firefox/97.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Alternative.
+# 11. Word on (0=left, 1=right).
+# 12. Correct.
+# 13. Reading time to first answer.
+# 14. Sentence.
+# 15. Total time to correct answer.
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,0,The,x-x-x,0,yes,1373,The farmer gave the teacher a bag of eggs and thanked him for teaching.,1373
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,1,farmer,relied,1,yes,1399,The farmer gave the teacher a bag of eggs and thanked him for teaching.,1399
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,2,gave,pace,0,yes,834,The farmer gave the teacher a bag of eggs and thanked him for teaching.,834
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,3,the,yeah,1,yes,672,The farmer gave the teacher a bag of eggs and thanked him for teaching.,672
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,4,teacher,appears,0,yes,807,The farmer gave the teacher a bag of eggs and thanked him for teaching.,807
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,5,a,vs,1,yes,472,The farmer gave the teacher a bag of eggs and thanked him for teaching.,472
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,6,bag,died,1,yes,856,The farmer gave the teacher a bag of eggs and thanked him for teaching.,856
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,7,of,hear,1,yes,449,The farmer gave the teacher a bag of eggs and thanked him for teaching.,449
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,8,eggs,ally,1,yes,1151,The farmer gave the teacher a bag of eggs and thanked him for teaching.,1151
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,9,and,sir,1,yes,592,The farmer gave the teacher a bag of eggs and thanked him for teaching.,592
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,10,thanked,deficit,1,yes,887,The farmer gave the teacher a bag of eggs and thanked him for teaching.,887
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,11,him,pro,1,yes,817,The farmer gave the teacher a bag of eggs and thanked him for teaching.,817
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,12,for,sale,1,yes,704,The farmer gave the teacher a bag of eggs and thanked him for teaching.,704
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1340,0,practice,p,13,teaching.,consists.,0,yes,1391,The farmer gave the teacher a bag of eggs and thanked him for teaching.,1391
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,0,The,x-x-x,0,yes,794,The student set up a meeting with the architect to view their blueprints for inspiration.,794
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,1,student,anymore,0,yes,1246,The student set up a meeting with the architect to view their blueprints for inspiration.,1246
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,2,set,nice,0,yes,1040,The student set up a meeting with the architect to view their blueprints for inspiration.,1040
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,3,up,glad,0,yes,978,The student set up a meeting with the architect to view their blueprints for inspiration.,978
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,4,a,miss,0,yes,671,The student set up a meeting with the architect to view their blueprints for inspiration.,671
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,5,meeting,happens,0,yes,1000,The student set up a meeting with the architect to view their blueprints for inspiration.,1000
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,6,with,yeah,1,yes,728,The student set up a meeting with the architect to view their blueprints for inspiration.,728
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,7,the,seem,1,yes,655,The student set up a meeting with the architect to view their blueprints for inspiration.,655
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,8,architect,disappear,1,yes,1080,The student set up a meeting with the architect to view their blueprints for inspiration.,1080
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,9,to,hate,0,yes,745,The student set up a meeting with the architect to view their blueprints for inspiration.,745
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,10,view,anti,1,yes,839,The student set up a meeting with the architect to view their blueprints for inspiration.,839
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,11,their,knows,0,yes,985,The student set up a meeting with the architect to view their blueprints for inspiration.,985
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,12,blueprints,molybdenum,0,yes,1327,The student set up a meeting with the architect to view their blueprints for inspiration.,1327
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,13,for,hour,0,yes,921,The student set up a meeting with the architect to view their blueprints for inspiration.,921
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,775,0,pronoun-neutral,18,14,inspiration.,understands.,0,yes,1113,The student set up a meeting with the architect to view their blueprints for inspiration.,1113
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,0,The,x-x-x,0,yes,702,The janitor talked with the auditor and passed her the files.,702
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,1,janitor,modeled,0,yes,1042,The janitor talked with the auditor and passed her the files.,1042
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,2,talked,export,1,yes,1061,The janitor talked with the auditor and passed her the files.,1061
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,3,with,cent,0,yes,641,The janitor talked with the auditor and passed her the files.,641
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,4,the,anti,1,yes,592,The janitor talked with the auditor and passed her the files.,592
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,5,auditor,grossed,0,yes,912,The janitor talked with the auditor and passed her the files.,912
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,6,and,date,0,yes,969,The janitor talked with the auditor and passed her the files.,969
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,7,passed,jersey,1,yes,911,The janitor talked with the auditor and passed her the files.,911
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,8,her,grow,1,yes,647,The janitor talked with the auditor and passed her the files.,647
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,9,the,eat,0,yes,729,The janitor talked with the auditor and passed her the files.,729
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,860,0,pro-anti,13,10,files.,eaten.,1,yes,2025,The janitor talked with the auditor and passed her the files.,2025
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,0,The,x-x-x,0,yes,560,The farmer needed the accountant for crop tabulation and asked her for help.,560
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,1,farmer,behave,0,yes,1000,The farmer needed the accountant for crop tabulation and asked her for help.,1000
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,2,needed,extent,0,yes,1655,The farmer needed the accountant for crop tabulation and asked her for help.,1655
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,3,the,ago,0,yes,665,The farmer needed the accountant for crop tabulation and asked her for help.,665
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,4,accountant,progresses,0,yes,1135,The farmer needed the accountant for crop tabulation and asked her for help.,1135
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,5,for,yeah,0,yes,743,The farmer needed the accountant for crop tabulation and asked her for help.,743
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,6,crop,nova,0,yes,2297,The farmer needed the accountant for crop tabulation and asked her for help.,2297
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,7,tabulation,juxtaposed,1,yes,1744,The farmer needed the accountant for crop tabulation and asked her for help.,1744
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,8,and,miss,1,yes,935,The farmer needed the accountant for crop tabulation and asked her for help.,935
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,9,asked,trump,1,yes,969,The farmer needed the accountant for crop tabulation and asked her for help.,969
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,10,her,cent,0,yes,760,The farmer needed the accountant for crop tabulation and asked her for help.,760
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,11,for,wall,0,yes,1057,The farmer needed the accountant for crop tabulation and asked her for help.,1057
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1048,0,pro-anti,14,12,help.,seem.,1,yes,816,The farmer needed the accountant for crop tabulation and asked her for help.,816
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,0,The,x-x-x,0,yes,549,The driver approached the auditor and solicited her help.,549
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,1,driver,plenty,0,yes,913,The driver approached the auditor and solicited her help.,913
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,2,approached,geological,1,yes,745,The driver approached the auditor and solicited her help.,745
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,3,the,soul,1,yes,686,The driver approached the auditor and solicited her help.,686
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,4,auditor,retains,1,yes,960,The driver approached the auditor and solicited her help.,960
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,5,and,laws,0,yes,737,The driver approached the auditor and solicited her help.,737
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,6,solicited,haphazard,1,yes,879,The driver approached the auditor and solicited her help.,879
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,7,her,yeah,0,yes,696,The driver approached the auditor and solicited her help.,696
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,692,0,pro-anti,12,8,help.,guys.,0,yes,800,The driver approached the auditor and solicited her help.,800
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,0,The,x-x-x,0,yes,612,The homeowner called the plumber to get an estimate for repairing her broken pipes.,612
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,1,homeowner,shortages,1,yes,1114,The homeowner called the plumber to get an estimate for repairing her broken pipes.,1114
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,2,called,happen,0,yes,574,The homeowner called the plumber to get an estimate for repairing her broken pipes.,574
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,3,the,miss,1,yes,592,The homeowner called the plumber to get an estimate for repairing her broken pipes.,592
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,4,plumber,refuted,0,yes,648,The homeowner called the plumber to get an estimate for repairing her broken pipes.,648
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,5,to,vs,1,yes,512,The homeowner called the plumber to get an estimate for repairing her broken pipes.,512
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,6,get,than,1,yes,800,The homeowner called the plumber to get an estimate for repairing her broken pipes.,800
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,7,an,yeah,0,yes,664,The homeowner called the plumber to get an estimate for repairing her broken pipes.,664
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,8,estimate,profound,1,yes,793,The homeowner called the plumber to get an estimate for repairing her broken pipes.,793
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,9,for,anti,0,yes,728,The homeowner called the plumber to get an estimate for repairing her broken pipes.,728
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,10,repairing,bombarded,0,yes,1455,The homeowner called the plumber to get an estimate for repairing her broken pipes.,1455
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,11,her,app,1,yes,568,The homeowner called the plumber to get an estimate for repairing her broken pipes.,568
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,12,broken,senate,0,yes,1049,The homeowner called the plumber to get an estimate for repairing her broken pipes.,1049
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,57,0,neutral-anti,20,13,pipes.,lyric.,0,yes,1055,The homeowner called the plumber to get an estimate for repairing her broken pipes.,1055
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,0,The,x-x-x,0,yes,534,The assistant missed the call from the mover and called her back.,534
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,1,assistant,preparing,0,yes,1057,The assistant missed the call from the mover and called her back.,1057
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,2,missed,decent,1,yes,696,The assistant missed the call from the mover and called her back.,696
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,3,the,wish,0,yes,871,The assistant missed the call from the mover and called her back.,871
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,4,call,yeah,0,yes,1097,The assistant missed the call from the mover and called her back.,1097
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,5,from,anti,1,yes,624,The assistant missed the call from the mover and called her back.,624
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,6,the,grow,0,yes,657,The assistant missed the call from the mover and called her back.,657
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,7,mover,crore,0,yes,1014,The assistant missed the call from the mover and called her back.,1014
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,8,and,pre,0,yes,768,The assistant missed the call from the mover and called her back.,768
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,9,called,videos,0,yes,744,The assistant missed the call from the mover and called her back.,744
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,10,her,ago,0,yes,850,The assistant missed the call from the mover and called her back.,850
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,9,0,anti-pro,0,11,back.,fund.,1,yes,567,The assistant missed the call from the mover and called her back.,567
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,0,Someone,x-x-x,0,yes,791,Someone called the plumber to get an estimate for repairing his broken pipes.,791
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,1,called,season,1,yes,690,Someone called the plumber to get an estimate for repairing his broken pipes.,690
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,2,the,spot,0,yes,512,Someone called the plumber to get an estimate for repairing his broken pipes.,512
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,3,plumber,spectra,0,yes,718,Someone called the plumber to get an estimate for repairing his broken pipes.,718
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,4,to,mid,1,yes,604,Someone called the plumber to get an estimate for repairing his broken pipes.,604
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,5,get,pre,1,yes,796,Someone called the plumber to get an estimate for repairing his broken pipes.,796
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,6,an,fund,1,yes,872,Someone called the plumber to get an estimate for repairing his broken pipes.,872
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,7,estimate,republic,0,yes,937,Someone called the plumber to get an estimate for repairing his broken pipes.,937
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,8,for,kid,1,yes,655,Someone called the plumber to get an estimate for repairing his broken pipes.,655
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,9,repairing,republics,1,yes,1192,Someone called the plumber to get an estimate for repairing his broken pipes.,1192
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,10,his,yeah,1,yes,633,Someone called the plumber to get an estimate for repairing his broken pipes.,633
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,11,broken,ignore,0,yes,1552,Someone called the plumber to get an estimate for repairing his broken pipes.,1552
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,50,0,neutral-pro,19,12,pipes.,abide.,1,yes,504,Someone called the plumber to get an estimate for repairing his broken pipes.,504
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,0,The,x-x-x,0,yes,550,The student set up a meeting with the architect to view her blueprints for inspiration.,550
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,1,student,anymore,1,yes,697,The student set up a meeting with the architect to view her blueprints for inspiration.,697
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,2,set,nice,1,yes,1143,The student set up a meeting with the architect to view her blueprints for inspiration.,1143
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,3,up,yeah,1,yes,553,The student set up a meeting with the architect to view her blueprints for inspiration.,553
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,4,a,vs,0,yes,903,The student set up a meeting with the architect to view her blueprints for inspiration.,903
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,5,meeting,happens,1,yes,769,The student set up a meeting with the architect to view her blueprints for inspiration.,769
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,6,with,sick,0,yes,920,The student set up a meeting with the architect to view her blueprints for inspiration.,920
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,7,the,miss,0,yes,823,The student set up a meeting with the architect to view her blueprints for inspiration.,823
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,8,architect,affecting,1,yes,599,The student set up a meeting with the architect to view her blueprints for inspiration.,599
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,9,to,eat,1,yes,610,The student set up a meeting with the architect to view her blueprints for inspiration.,610
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,10,view,jack,0,yes,1279,The student set up a meeting with the architect to view her blueprints for inspiration.,1279
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,11,her,guy,1,yes,576,The student set up a meeting with the architect to view her blueprints for inspiration.,576
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,12,blueprints,colorectal,0,yes,929,The student set up a meeting with the architect to view her blueprints for inspiration.,929
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,13,for,hour,0,yes,1430,The student set up a meeting with the architect to view her blueprints for inspiration.,1430
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,835,0,anti-neutral,17,14,inspiration.,republicans.,0,yes,1082,The student set up a meeting with the architect to view her blueprints for inspiration.,1082
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,0,The,x-x-x,0,yes,582,The developer spoke with the auditor and provide him new documents.,582
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,1,developer,preparing,0,yes,888,The developer spoke with the auditor and provide him new documents.,888
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,2,spoke,lions,1,yes,936,The developer spoke with the auditor and provide him new documents.,936
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,3,with,lose,0,yes,457,The developer spoke with the auditor and provide him new documents.,457
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,4,the,yeah,1,yes,552,The developer spoke with the auditor and provide him new documents.,552
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,5,auditor,inhabit,1,yes,655,The developer spoke with the auditor and provide him new documents.,655
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,6,and,soul,0,yes,642,The developer spoke with the auditor and provide him new documents.,642
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,7,provide,anymore,1,yes,1390,The developer spoke with the auditor and provide him new documents.,1390
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,8,him,cent,0,yes,832,The developer spoke with the auditor and provide him new documents.,832
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,9,new,boys,0,yes,1632,The developer spoke with the auditor and provide him new documents.,1632
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,700,0,anti-pro,4,10,documents.,delicious.,1,yes,1065,The developer spoke with the auditor and provide him new documents.,1065
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,0,The,x-x-x,0,yes,576,The writer interviewed the manager and asked him a few questions.,576
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,1,writer,anyway,1,yes,833,The writer interviewed the manager and asked him a few questions.,833
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,2,interviewed,controllers,0,yes,799,The writer interviewed the manager and asked him a few questions.,799
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,3,the,sale,1,yes,584,The writer interviewed the manager and asked him a few questions.,584
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,4,manager,located,0,yes,760,The writer interviewed the manager and asked him a few questions.,760
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,5,and,cent,1,yes,528,The writer interviewed the manager and asked him a few questions.,528
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,6,asked,miles,1,yes,632,The writer interviewed the manager and asked him a few questions.,632
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,7,him,anti,1,yes,784,The writer interviewed the manager and asked him a few questions.,784
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,8,a,jack,0,yes,945,The writer interviewed the manager and asked him a few questions.,945
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,9,few,yeah,0,yes,937,The writer interviewed the manager and asked him a few questions.,937
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,525,0,pro-anti,11,10,questions.,institute.,0,yes,639,The writer interviewed the manager and asked him a few questions.,639
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,0,The,x-x-x,0,yes,510,The clerk provided the customer with paperwork to return to her upon completion.,510
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,1,clerk,cared,0,yes,1160,The clerk provided the customer with paperwork to return to her upon completion.,1160
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,2,provided,southern,0,yes,1449,The clerk provided the customer with paperwork to return to her upon completion.,1449
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,3,the,ago,0,yes,695,The clerk provided the customer with paperwork to return to her upon completion.,695
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,4,customer,tomorrow,1,yes,927,The clerk provided the customer with paperwork to return to her upon completion.,927
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,5,with,lake,0,yes,448,The clerk provided the customer with paperwork to return to her upon completion.,448
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,6,paperwork,inhabited,1,yes,1184,The clerk provided the customer with paperwork to return to her upon completion.,1184
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,7,to,guy,0,yes,641,The clerk provided the customer with paperwork to return to her upon completion.,641
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,8,return,stupid,0,yes,960,The clerk provided the customer with paperwork to return to her upon completion.,960
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,9,to,god,0,yes,720,The clerk provided the customer with paperwork to return to her upon completion.,720
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,10,her,yes,0,yes,1200,The clerk provided the customer with paperwork to return to her upon completion.,1200
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,11,upon,puts,0,yes,2193,The clerk provided the customer with paperwork to return to her upon completion.,2193
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,701,0,pro-neutral,16,12,completion.,playground.,1,yes,1032,The clerk provided the customer with paperwork to return to her upon completion.,1032
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,0,The,x-x-x,0,yes,477,The nurse thanked the chief and handed her a present.,477
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,1,nurse,eaten,1,yes,897,The nurse thanked the chief and handed her a present.,897
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,2,thanked,midterm,1,yes,1008,The nurse thanked the chief and handed her a present.,1008
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,3,the,jack,1,yes,711,The nurse thanked the chief and handed her a present.,711
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,4,chief,meant,1,yes,809,The nurse thanked the chief and handed her a present.,809
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,5,and,mid,1,yes,744,The nurse thanked the chief and handed her a present.,744
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,6,handed,fusion,0,yes,880,The nurse thanked the chief and handed her a present.,880
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,7,her,yeah,1,yes,655,The nurse thanked the chief and handed her a present.,655
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,8,a,goes,1,yes,586,The nurse thanked the chief and handed her a present.,586
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,352,0,anti-pro,2,9,present.,nations.,0,yes,831,The nurse thanked the chief and handed her a present.,831
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,0,The,x-x-x,0,yes,519,The sheriff called the assistant and then gave him orders.,519
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,1,sheriff,propose,0,yes,1055,The sheriff called the assistant and then gave him orders.,1055
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,2,called,global,1,yes,841,The sheriff called the assistant and then gave him orders.,841
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,3,the,pre,0,yes,721,The sheriff called the assistant and then gave him orders.,721
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,4,assistant,improving,0,yes,1078,The sheriff called the assistant and then gave him orders.,1078
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,5,and,ago,0,yes,961,The sheriff called the assistant and then gave him orders.,961
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,6,then,yeah,0,yes,1016,The sheriff called the assistant and then gave him orders.,1016
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,7,gave,semi,0,yes,864,The sheriff called the assistant and then gave him orders.,864
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,8,him,app,0,yes,696,The sheriff called the assistant and then gave him orders.,696
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,863,0,anti-pro,5,9,orders.,decade.,0,yes,1032,The sheriff called the assistant and then gave him orders.,1032
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,0,The,x-x-x,0,yes,560,The clerk called the physician and asked her about the medicine.,560
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,1,clerk,alike,0,yes,856,The clerk called the physician and asked her about the medicine.,856
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,2,called,cancer,1,yes,1184,The clerk called the physician and asked her about the medicine.,1184
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,3,the,miss,1,yes,664,The clerk called the physician and asked her about the medicine.,664
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,4,physician,achieving,0,yes,791,The clerk called the physician and asked her about the medicine.,791
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,5,and,jack,0,yes,610,The clerk called the physician and asked her about the medicine.,610
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,6,asked,weird,1,yes,830,The clerk called the physician and asked her about the medicine.,830
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,7,her,cent,1,yes,648,The clerk called the physician and asked her about the medicine.,648
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,8,about,miles,1,yes,928,The clerk called the physician and asked her about the medicine.,928
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,9,the,guy,1,yes,553,The clerk called the physician and asked her about the medicine.,553
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1173,0,anti-pro,7,10,medicine.,deserves.,0,yes,703,The clerk called the physician and asked her about the medicine.,703
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,0,The,x-x-x,0,yes,519,The housekeeper showed the janitor the direction and led her to the kitchen.,519
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,1,housekeeper,facilitated,0,yes,911,The housekeeper showed the janitor the direction and led her to the kitchen.,911
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,2,showed,sudden,1,yes,913,The housekeeper showed the janitor the direction and led her to the kitchen.,913
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,3,the,hill,0,yes,640,The housekeeper showed the janitor the direction and led her to the kitchen.,640
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,4,janitor,resigns,1,yes,679,The housekeeper showed the janitor the direction and led her to the kitchen.,679
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,5,the,laws,1,yes,664,The housekeeper showed the janitor the direction and led her to the kitchen.,664
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,6,direction,ourselves,1,yes,1401,The housekeeper showed the janitor the direction and led her to the kitchen.,1401
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,7,and,hate,0,yes,1025,The housekeeper showed the janitor the direction and led her to the kitchen.,1025
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,8,led,cent,1,yes,983,The housekeeper showed the janitor the direction and led her to the kitchen.,983
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,9,her,app,1,yes,527,The housekeeper showed the janitor the direction and led her to the kitchen.,527
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,10,to,pre,1,yes,641,The housekeeper showed the janitor the direction and led her to the kitchen.,641
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,11,the,than,1,yes,799,The housekeeper showed the janitor the direction and led her to the kitchen.,799
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1018,0,anti-pro,6,12,kitchen.,belongs.,1,yes,858,The housekeeper showed the janitor the direction and led her to the kitchen.,858
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,0,The,x-x-x,0,yes,542,The nurse got the phone call from the cook and began to prepare the surgery for him.,542
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,1,nurse,react,1,yes,1320,The nurse got the phone call from the cook and began to prepare the surgery for him.,1320
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,2,got,mid,0,yes,888,The nurse got the phone call from the cook and began to prepare the surgery for him.,888
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,3,the,jack,1,yes,697,The nurse got the phone call from the cook and began to prepare the surgery for him.,697
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,4,phone,miles,1,yes,1671,The nurse got the phone call from the cook and began to prepare the surgery for him.,1671
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,5,call,anti,1,yes,1320,The nurse got the phone call from the cook and began to prepare the surgery for him.,1320
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,6,from,ones,1,yes,656,The nurse got the phone call from the cook and began to prepare the surgery for him.,656
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,7,the,rate,0,yes,849,The nurse got the phone call from the cook and began to prepare the surgery for him.,849
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,8,cook,inch,0,yes,807,The nurse got the phone call from the cook and began to prepare the surgery for him.,807
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,9,and,hate,1,yes,511,The nurse got the phone call from the cook and began to prepare the surgery for him.,511
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,10,began,doubt,0,yes,1168,The nurse got the phone call from the cook and began to prepare the surgery for him.,1168
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,11,to,cent,1,yes,649,The nurse got the phone call from the cook and began to prepare the surgery for him.,649
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,12,prepare,streams,0,yes,968,The nurse got the phone call from the cook and began to prepare the surgery for him.,968
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,13,the,yeah,0,yes,873,The nurse got the phone call from the cook and began to prepare the surgery for him.,873
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,14,surgery,deserve,0,yes,727,The nurse got the phone call from the cook and began to prepare the surgery for him.,727
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,15,for,sir,0,yes,689,The nurse got the phone call from the cook and began to prepare the surgery for him.,689
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,186,0,pro-anti,9,16,him.,app.,1,yes,550,The nurse got the phone call from the cook and began to prepare the surgery for him.,550
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,0,The,x-x-x,0,yes,509,The laborer raced against the hairdresser and outran her.,509
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,1,laborer,lorries,1,yes,1088,The laborer raced against the hairdresser and outran her.,1088
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,2,raced,manga,0,yes,880,The laborer raced against the hairdresser and outran her.,880
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,3,against,article,0,yes,1523,The laborer raced against the hairdresser and outran her.,1523
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,4,the,mind,0,yes,676,The laborer raced against the hairdresser and outran her.,676
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,5,hairdresser,millimetres,1,yes,953,The laborer raced against the hairdresser and outran her.,953
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,6,and,hate,0,yes,512,The laborer raced against the hairdresser and outran her.,512
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,7,outran,schist,0,yes,1200,The laborer raced against the hairdresser and outran her.,1200
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,357,0,pro-anti,10,8,her.,sir.,0,yes,679,The laborer raced against the hairdresser and outran her.,679
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,0,The,x-x-x,0,yes,486,The auditor approached the driver and solicited his help.,486
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,1,auditor,grouped,1,yes,1137,The auditor approached the driver and solicited his help.,1137
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,2,approached,accidental,0,yes,881,The auditor approached the driver and solicited his help.,881
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,3,the,jack,0,yes,776,The auditor approached the driver and solicited his help.,776
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,4,driver,indeed,1,yes,743,The auditor approached the driver and solicited his help.,743
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,5,and,soul,1,yes,705,The auditor approached the driver and solicited his help.,705
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,6,solicited,jellyfish,0,yes,823,The auditor approached the driver and solicited his help.,823
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,7,his,ago,0,yes,842,The auditor approached the driver and solicited his help.,842
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,1222,0,pro-anti,15,8,help.,guys.,0,yes,1079,The auditor approached the driver and solicited his help.,1079
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,0,The,x-x-x,0,yes,561,The driver offered a ride to the teacher and picked her up on time.,561
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,1,driver,anyway,0,yes,879,The driver offered a ride to the teacher and picked her up on time.,879
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,2,offered,dollars,1,yes,930,The driver offered a ride to the teacher and picked her up on time.,930
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,3,a,ago,0,yes,661,The driver offered a ride to the teacher and picked her up on time.,661
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,4,ride,cops,1,yes,1409,The driver offered a ride to the teacher and picked her up on time.,1409
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,5,to,sir,1,yes,600,The driver offered a ride to the teacher and picked her up on time.,600
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,6,the,glad,0,yes,680,The driver offered a ride to the teacher and picked her up on time.,680
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,7,teacher,depends,0,yes,1002,The driver offered a ride to the teacher and picked her up on time.,1002
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,8,and,cent,1,yes,679,The driver offered a ride to the teacher and picked her up on time.,679
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,9,picked,regret,0,yes,927,The driver offered a ride to the teacher and picked her up on time.,927
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,10,her,miss,0,yes,728,The driver offered a ride to the teacher and picked her up on time.,728
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,11,up,oh,0,yes,809,The driver offered a ride to the teacher and picked her up on time.,809
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,12,on,yeah,1,yes,656,The driver offered a ride to the teacher and picked her up on time.,656
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,31,0,pro-anti,8,13,time.,guys.,1,yes,784,The driver offered a ride to the teacher and picked her up on time.,784
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,0,The,x-x-x,0,yes,455,The nurse took care of the CEO and gave her some health suggestions.,455
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,1,nurse,eaten,0,yes,727,The nurse took care of the CEO and gave her some health suggestions.,727
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,2,took,cool,1,yes,912,The nurse took care of the CEO and gave her some health suggestions.,912
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,3,care,yeah,1,yes,834,The nurse took care of the CEO and gave her some health suggestions.,834
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,4,of,sit,1,yes,526,The nurse took care of the CEO and gave her some health suggestions.,526
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,5,the,ago,0,yes,784,The nurse took care of the CEO and gave her some health suggestions.,784
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,6,CEO,DES,1,yes,1200,The nurse took care of the CEO and gave her some health suggestions.,1200
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,7,and,hate,0,yes,913,The nurse took care of the CEO and gave her some health suggestions.,913
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,8,gave,blow,0,yes,816,The nurse took care of the CEO and gave her some health suggestions.,816
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,9,her,miss,0,yes,1352,The nurse took care of the CEO and gave her some health suggestions.,1352
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,10,some,goes,0,yes,1312,The nurse took care of the CEO and gave her some health suggestions.,1312
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,11,health,itself,0,yes,3327,The nurse took care of the CEO and gave her some health suggestions.,3327
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,528,0,anti-pro,3,12,suggestions.,dimensional.,0,yes,794,The nurse took care of the CEO and gave her some health suggestions.,794
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,0,The,x-x-x,0,yes,510,The CEO liked the bread from the baker and bought from him regularly.,510
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,1,CEO,RELY,1,yes,736,The CEO liked the bread from the baker and bought from him regularly.,736
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,2,liked,weird,1,yes,770,The CEO liked the bread from the baker and bought from him regularly.,770
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,3,the,miss,0,yes,663,The CEO liked the bread from the baker and bought from him regularly.,663
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,4,bread,awake,1,yes,1368,The CEO liked the bread from the baker and bought from him regularly.,1368
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,5,from,anti,0,yes,1433,The CEO liked the bread from the baker and bought from him regularly.,1433
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,6,the,pro,0,yes,639,The CEO liked the bread from the baker and bought from him regularly.,639
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,7,baker,occur,0,yes,760,The CEO liked the bread from the baker and bought from him regularly.,760
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,8,and,gain,1,yes,776,The CEO liked the bread from the baker and bought from him regularly.,776
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,9,bought,happen,1,yes,760,The CEO liked the bread from the baker and bought from him regularly.,760
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,10,from,seem,0,yes,560,The CEO liked the bread from the baker and bought from him regularly.,560
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,11,him,yeah,1,yes,680,The CEO liked the bread from the baker and bought from him regularly.,680
+1647500675,85f8983e4fa75a9805594c4b0ae8dc3a,Maze,184,0,anti-pro,1,12,regularly.,principle.,1,yes,1216,The CEO liked the bread from the baker and bought from him regularly.,1216
